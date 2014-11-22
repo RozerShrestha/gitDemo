@@ -6,5 +6,7 @@ monkey
 printout("sdfhshfhkjsdfhkjsf",sdjhjd);
 monley eat banana
 tiger eat deear.
+aarati is not a human being
+aarati is a monster
 
 
