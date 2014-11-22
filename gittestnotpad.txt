@@ -1,6 +1,4 @@
 apple
 ball
-ddoll
 cat
-monkey
-
+doll
