@@ -1,6 +1,10 @@
-apple
+giapple
 ball
 ddoll
 cat
 monkey
+printout("sdfhshfhkjsdfhkjsf",sdjhjd);
+monley eat banana
+tiger eat deear.
+
 
